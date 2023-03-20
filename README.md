@@ -6,4 +6,4 @@ He/him
 
 [Discord](https://discord.com/users/716250356803174511)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=guacaplushy&show_icons=true&count_private=true&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=plooshi&show_icons=true&count_private=true&theme=tokyonight)
