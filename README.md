@@ -1,6 +1,6 @@
 Hello! My name is Tom. I like to code, and know many programming languages!
 
-Prefer C/JS
+Prefers C
 
 He/him
 
