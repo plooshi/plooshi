@@ -1,7 +1,7 @@
 Hello! My name is Tom. I like to code, and know many programming languages!
 
 I like C++ and C. I'm current writing a Fortnite private server for 12.41 (chapter 2 season 2) with bosses!
-It's discord is [https://discord.gg/daDBsVF9FS](https://discord.gg/daDBsVF9FS).
+It's discord is https://discord.gg/daDBsVF9FS.
 
 I use he/they pronouns.
 
