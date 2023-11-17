@@ -1,8 +1,8 @@
 Hello! My name is Tom. I like to code, and know many programming languages!
 
-Prefers C
+I like C++ and C. I'm current writing a Fortnite private server for 12.41 (chapter 2 season 2) with bosses!
 
-He/him
+I use he/they pronouns.
 
 [Discord](https://discord.com/users/716250356803174511)
 
