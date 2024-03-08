@@ -1,6 +1,6 @@
 Hello! My name is Tom. I like to code, and know many programming languages!
 
-I like C++ and C. I'm current writing a Fortnite private server for 12.41 (chapter 2 season 2) with bosses!
+I write mainly in C++ and C#. I'm currently writing a Fortnite private server for 12.41 (chapter 2 season 2) with bosses!
 It's discord is https://discord.gg/astrofn.
 
 my github is not dead its all just on private repos lol
